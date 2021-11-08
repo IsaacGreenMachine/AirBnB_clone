@@ -1,2 +1,1 @@
-# web_static
-Beginnnings of the HTML and CSS for the AirBnB Clone project
+Web_static portion of AirBnb!
