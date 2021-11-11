@@ -1,0 +1,24 @@
+.placesContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+article {
+    width:390px;
+    padding: 20px;
+    margin: 20px;
+    border: #FF5A5F 1px solid;
+    border-radius: 4px;
+
+}
+
+h2.articleID {
+    font-size: 30px;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 0px;
+    padding-left: 0px;
+    font-size: 30px;
+}
